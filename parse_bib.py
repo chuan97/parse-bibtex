@@ -1,6 +1,5 @@
 import re
 import sys
-import collections.abc
 from typing import Dict
 
 # move to json file
